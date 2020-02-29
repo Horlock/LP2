@@ -1,0 +1,9 @@
+Q:\LPII\CalculaVolume\CalculaVolume\bin\Debug\CalculaVolume.exe.config
+Q:\LPII\CalculaVolume\CalculaVolume\bin\Debug\CalculaVolume.exe
+Q:\LPII\CalculaVolume\CalculaVolume\bin\Debug\CalculaVolume.pdb
+Q:\LPII\CalculaVolume\CalculaVolume\obj\Debug\CalculaVolume.csprojResolveAssemblyReference.cache
+Q:\LPII\CalculaVolume\CalculaVolume\obj\Debug\CalculaVolume.titulo.resources
+Q:\LPII\CalculaVolume\CalculaVolume\obj\Debug\CalculaVolume.Properties.Resources.resources
+Q:\LPII\CalculaVolume\CalculaVolume\obj\Debug\CalculaVolume.csproj.GenerateResource.Cache
+Q:\LPII\CalculaVolume\CalculaVolume\obj\Debug\CalculaVolume.exe
+Q:\LPII\CalculaVolume\CalculaVolume\obj\Debug\CalculaVolume.pdb
