@@ -1,0 +1,10 @@
+Q:\LPII\Classes\PTesteClasses\PTesteClasses\bin\Debug\PTesteClasses.exe.config
+Q:\LPII\Classes\PTesteClasses\PTesteClasses\bin\Debug\PTesteClasses.exe
+Q:\LPII\Classes\PTesteClasses\PTesteClasses\bin\Debug\PTesteClasses.pdb
+Q:\LPII\Classes\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.csprojResolveAssemblyReference.cache
+Q:\LPII\Classes\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.Form1.resources
+Q:\LPII\Classes\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.frmMensalista.resources
+Q:\LPII\Classes\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.Properties.Resources.resources
+Q:\LPII\Classes\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.csproj.GenerateResource.Cache
+Q:\LPII\Classes\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.exe
+Q:\LPII\Classes\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.pdb
