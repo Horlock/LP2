@@ -13,7 +13,20 @@ namespace PTesteClasses
         // sobreescrendo o método
         public override double SalarioBruto()
         {
+            
             return (SalarioMensal);
+        }
+
+        public Mensalista()
+        {
+                
+        }
+        public Mensalista(int matx, string nomex, DateTime datax, double salx)
+        {
+            Matricula = matx;
+            NomeEmpregado = nomex;
+            DataEntradaEmpresa = datax;
+            SalarioMensal = salx;
         }
     }
     

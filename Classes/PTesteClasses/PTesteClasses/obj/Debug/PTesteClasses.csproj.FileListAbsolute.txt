@@ -8,3 +8,4 @@ Q:\LPII\Classes\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.Properties.R
 Q:\LPII\Classes\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.csproj.GenerateResource.Cache
 Q:\LPII\Classes\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.exe
 Q:\LPII\Classes\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.pdb
+Q:\LPII\Classes\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.frmHorista.resources

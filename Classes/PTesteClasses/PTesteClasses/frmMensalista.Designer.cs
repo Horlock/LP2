@@ -126,6 +126,7 @@
             this.btnInstanciarParametros.TabIndex = 9;
             this.btnInstanciarParametros.Text = "Instanciar Mensalista com Parametros";
             this.btnInstanciarParametros.UseVisualStyleBackColor = true;
+            this.btnInstanciarParametros.Click += new System.EventHandler(this.btnInstanciarParametros_Click);
             // 
             // frmMensalista
             // 

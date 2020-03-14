@@ -61,5 +61,25 @@ namespace PTesteClasses
                             mensalista.SalarioBruto().ToString("N2")
                             );
         }
+
+        private void btnInstanciarParametros_Click(object sender, EventArgs e)
+        {
+            Mensalista mensalista = new Mensalista(
+                Convert.ToInt32(txtMatricula.Text),
+                txtNome.Text,
+                Convert.ToDateTime(txtDataEntrada.Text),
+                Convert.ToDouble(txtSalario.Text)
+               );
+
+            MessageBox.Show(
+                            "Nome = " + mensalista.NomeEmpregado + "\n" +
+                            "Matrícula = " + mensalista.Matricula + "\n" +
+                            "Tempo Trabalho: " +
+                            mensalista.TempoTrabalho().ToString() +
+                            "\n" +
+                            "Salário Final = R$ " +
+                            mensalista.SalarioBruto().ToString("N2")
+                            );
+        }
     }
 }
