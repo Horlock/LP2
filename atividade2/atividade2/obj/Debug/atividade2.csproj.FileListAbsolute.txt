@@ -1,0 +1,9 @@
+C:\Users\vinic\OneDrive\FATEC\LP2\atividade2\atividade2\bin\Debug\atividade2.exe.config
+C:\Users\vinic\OneDrive\FATEC\LP2\atividade2\atividade2\bin\Debug\atividade2.exe
+C:\Users\vinic\OneDrive\FATEC\LP2\atividade2\atividade2\bin\Debug\atividade2.pdb
+C:\Users\vinic\OneDrive\FATEC\LP2\atividade2\atividade2\obj\Debug\atividade2.csprojAssemblyReference.cache
+C:\Users\vinic\OneDrive\FATEC\LP2\atividade2\atividade2\obj\Debug\atividade2.CalculaPesoIdeal.resources
+C:\Users\vinic\OneDrive\FATEC\LP2\atividade2\atividade2\obj\Debug\atividade2.Properties.Resources.resources
+C:\Users\vinic\OneDrive\FATEC\LP2\atividade2\atividade2\obj\Debug\atividade2.csproj.GenerateResource.cache
+C:\Users\vinic\OneDrive\FATEC\LP2\atividade2\atividade2\obj\Debug\atividade2.exe
+C:\Users\vinic\OneDrive\FATEC\LP2\atividade2\atividade2\obj\Debug\atividade2.pdb

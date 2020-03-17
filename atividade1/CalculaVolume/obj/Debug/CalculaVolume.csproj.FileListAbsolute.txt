@@ -7,3 +7,8 @@ Q:\LPII\CalculaVolume\CalculaVolume\obj\Debug\CalculaVolume.Properties.Resources
 Q:\LPII\CalculaVolume\CalculaVolume\obj\Debug\CalculaVolume.csproj.GenerateResource.Cache
 Q:\LPII\CalculaVolume\CalculaVolume\obj\Debug\CalculaVolume.exe
 Q:\LPII\CalculaVolume\CalculaVolume\obj\Debug\CalculaVolume.pdb
+C:\Users\vinic\OneDrive\FATEC\LP2\atividade1\CalculaVolume\obj\Debug\CalculaVolume.csprojAssemblyReference.cache
+C:\Users\vinic\OneDrive\FATEC\LP2\atividade1\CalculaVolume\obj\Debug\CalculaVolume.titulo.resources
+C:\Users\vinic\OneDrive\FATEC\LP2\atividade1\CalculaVolume\obj\Debug\CalculaVolume.csproj.GenerateResource.cache
+C:\Users\vinic\OneDrive\FATEC\LP2\atividade1\CalculaVolume\obj\Debug\CalculaVolume.exe
+C:\Users\vinic\OneDrive\FATEC\LP2\atividade1\CalculaVolume\obj\Debug\CalculaVolume.pdb
