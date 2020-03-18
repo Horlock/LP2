@@ -37,6 +37,9 @@
             this.txtPeso = new System.Windows.Forms.TextBox();
             this.btnCalcular = new System.Windows.Forms.Button();
             this.btnLimpar = new System.Windows.Forms.Button();
+            this.lblPesoIdeal = new System.Windows.Forms.Label();
+            this.txtPesoIdeal = new System.Windows.Forms.TextBox();
+            this.lblMsg = new System.Windows.Forms.Label();
             this.groupGenero.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -63,12 +66,12 @@
             // 
             this.groupGenero.Controls.Add(this.radioM);
             this.groupGenero.Controls.Add(this.radioF);
-            this.groupGenero.Location = new System.Drawing.Point(290, 39);
+            this.groupGenero.Location = new System.Drawing.Point(306, 20);
             this.groupGenero.Name = "groupGenero";
             this.groupGenero.Size = new System.Drawing.Size(200, 100);
             this.groupGenero.TabIndex = 2;
             this.groupGenero.TabStop = false;
-            this.groupGenero.Text = "Genero";
+            this.groupGenero.Text = "Gênero";
             // 
             // radioM
             // 
@@ -84,6 +87,7 @@
             // radioF
             // 
             this.radioF.AutoSize = true;
+            this.radioF.Checked = true;
             this.radioF.Location = new System.Drawing.Point(19, 32);
             this.radioF.Name = "radioF";
             this.radioF.Size = new System.Drawing.Size(86, 21);
@@ -109,7 +113,7 @@
             // 
             // btnCalcular
             // 
-            this.btnCalcular.Location = new System.Drawing.Point(125, 180);
+            this.btnCalcular.Location = new System.Drawing.Point(133, 247);
             this.btnCalcular.Name = "btnCalcular";
             this.btnCalcular.Size = new System.Drawing.Size(119, 48);
             this.btnCalcular.TabIndex = 5;
@@ -119,7 +123,7 @@
             // 
             // btnLimpar
             // 
-            this.btnLimpar.Location = new System.Drawing.Point(250, 180);
+            this.btnLimpar.Location = new System.Drawing.Point(258, 247);
             this.btnLimpar.Name = "btnLimpar";
             this.btnLimpar.Size = new System.Drawing.Size(119, 48);
             this.btnLimpar.TabIndex = 6;
@@ -127,11 +131,40 @@
             this.btnLimpar.UseVisualStyleBackColor = true;
             this.btnLimpar.Click += new System.EventHandler(this.btnLimpar_Click);
             // 
+            // lblPesoIdeal
+            // 
+            this.lblPesoIdeal.AutoSize = true;
+            this.lblPesoIdeal.Location = new System.Drawing.Point(178, 161);
+            this.lblPesoIdeal.Name = "lblPesoIdeal";
+            this.lblPesoIdeal.Size = new System.Drawing.Size(74, 17);
+            this.lblPesoIdeal.TabIndex = 7;
+            this.lblPesoIdeal.Text = "Peso ideal";
+            this.lblPesoIdeal.Click += new System.EventHandler(this.lblPesoIdeal_Click);
+            // 
+            // txtPesoIdeal
+            // 
+            this.txtPesoIdeal.Location = new System.Drawing.Point(258, 158);
+            this.txtPesoIdeal.Name = "txtPesoIdeal";
+            this.txtPesoIdeal.ReadOnly = true;
+            this.txtPesoIdeal.Size = new System.Drawing.Size(123, 22);
+            this.txtPesoIdeal.TabIndex = 8;
+            // 
+            // lblMsg
+            // 
+            this.lblMsg.AutoSize = true;
+            this.lblMsg.Location = new System.Drawing.Point(181, 199);
+            this.lblMsg.Name = "lblMsg";
+            this.lblMsg.Size = new System.Drawing.Size(0, 17);
+            this.lblMsg.TabIndex = 9;
+            // 
             // CalculaPesoIdeal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(504, 248);
+            this.ClientSize = new System.Drawing.Size(551, 314);
+            this.Controls.Add(this.lblMsg);
+            this.Controls.Add(this.txtPesoIdeal);
+            this.Controls.Add(this.lblPesoIdeal);
             this.Controls.Add(this.btnLimpar);
             this.Controls.Add(this.btnCalcular);
             this.Controls.Add(this.txtPeso);
@@ -160,6 +193,9 @@
         private System.Windows.Forms.TextBox txtPeso;
         private System.Windows.Forms.Button btnCalcular;
         private System.Windows.Forms.Button btnLimpar;
+        private System.Windows.Forms.Label lblPesoIdeal;
+        private System.Windows.Forms.TextBox txtPesoIdeal;
+        private System.Windows.Forms.Label lblMsg;
     }
 }
 

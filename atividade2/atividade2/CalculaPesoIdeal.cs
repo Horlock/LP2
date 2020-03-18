@@ -30,10 +30,9 @@ namespace atividade2
 
         private void btnCalcular_Click(object sender, EventArgs e)
         {
-            double peso, altura;
 
-            if (double.TryParse(txtPeso.Text, out peso) &&
-                double.TryParse(txtAltura.Text, out altura))
+            if (double.TryParse(txtPeso.Text, out double peso) &&
+                double.TryParse(txtAltura.Text, out double altura))
             {
                 double pesoIdeal;
                 if (radioF.Checked)
@@ -44,25 +43,35 @@ namespace atividade2
                 { // masculino
                     pesoIdeal = (72.7 * altura) - 58;
                 }
-                string pesoIdealStr = pesoIdeal.ToString("N2");
-                if(pesoIdeal < peso)
-                {
-                    MessageBox.Show("Peso acima do ideal: " + pesoIdealStr + "kg." +
-                                    "\nSeu peso: " + peso + "kg.");
-                }else if(pesoIdeal > peso)
-                {
-                    MessageBox.Show("Peso abaixo do ideal: " + pesoIdealStr + "kg." +
-                                    "\nSeu peso: " + peso + "kg.");
-                }
-                else
-                {
-                    MessageBox.Show("Peso dentro do recomendado: " + pesoIdealStr + "kg.");
-                }
+
+                string pesoIdealStr = pesoIdeal.ToString();
+                txtPesoIdeal.Text = pesoIdealStr;
+
+                    if(pesoIdeal < peso)
+                    {
+                        lblMsg.Text = "Peso acima do ideal";
+                        lblMsg.ForeColor = Color.Red;
+                    }
+                    else if(pesoIdeal > peso)
+                    {
+                        lblMsg.Text = "Peso abaixo do ideal";
+                        lblMsg.ForeColor = Color.Red;
+                    }
+                    else
+                    {
+                        lblMsg.Text = "Peso dentro do recomendado";
+                        lblMsg.ForeColor = Color.Green;
+                    }
             }
             else
             {
                 MessageBox.Show("Dados inválidos!");
             }
+        }
+
+        private void lblPesoIdeal_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
