@@ -37,11 +37,11 @@ namespace atividade2
                 double pesoIdeal;
                 if (radioF.Checked)
                 { // feminino
-                    pesoIdeal = (62.1 * altura) - 44.7;
+                    pesoIdeal = Math.Round((62.1 * altura) - 44.7, 2);
                 }
                 else
                 { // masculino
-                    pesoIdeal = (72.7 * altura) - 58;
+                    pesoIdeal = Math.Round((72.7 * altura) - 58, 2);
                 }
 
                 string pesoIdealStr = pesoIdeal.ToString();
