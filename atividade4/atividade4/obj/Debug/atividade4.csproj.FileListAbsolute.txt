@@ -1,0 +1,10 @@
+C:\Users\vinic\OneDrive\FATEC\LP2\atividade4\atividade4\bin\Debug\atividade4.exe.config
+C:\Users\vinic\OneDrive\FATEC\LP2\atividade4\atividade4\bin\Debug\atividade4.exe
+C:\Users\vinic\OneDrive\FATEC\LP2\atividade4\atividade4\bin\Debug\atividade4.pdb
+C:\Users\vinic\OneDrive\FATEC\LP2\atividade4\atividade4\obj\Debug\atividade4.csprojAssemblyReference.cache
+C:\Users\vinic\OneDrive\FATEC\LP2\atividade4\atividade4\obj\Debug\atividade4.calculoINSS.resources
+C:\Users\vinic\OneDrive\FATEC\LP2\atividade4\atividade4\obj\Debug\atividade4.Properties.Resources.resources
+C:\Users\vinic\OneDrive\FATEC\LP2\atividade4\atividade4\obj\Debug\atividade4.csproj.GenerateResource.cache
+C:\Users\vinic\OneDrive\FATEC\LP2\atividade4\atividade4\obj\Debug\atividade4.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\FATEC\LP2\atividade4\atividade4\obj\Debug\atividade4.exe
+C:\Users\vinic\OneDrive\FATEC\LP2\atividade4\atividade4\obj\Debug\atividade4.pdb
