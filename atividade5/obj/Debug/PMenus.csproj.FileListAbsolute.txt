@@ -1,0 +1,14 @@
+C:\Users\ptort\Documents\TTLCodes\PMenus\bin\Debug\PMenus.exe.config
+C:\Users\ptort\Documents\TTLCodes\PMenus\bin\Debug\PMenus.exe
+C:\Users\ptort\Documents\TTLCodes\PMenus\bin\Debug\PMenus.pdb
+C:\Users\ptort\Documents\TTLCodes\PMenus\obj\Debug\PMenus.csprojAssemblyReference.cache
+C:\Users\ptort\Documents\TTLCodes\PMenus\obj\Debug\PMenus.frmPrincipal.resources
+C:\Users\ptort\Documents\TTLCodes\PMenus\obj\Debug\PMenus.Properties.Resources.resources
+C:\Users\ptort\Documents\TTLCodes\PMenus\obj\Debug\PMenus.csproj.GenerateResource.cache
+C:\Users\ptort\Documents\TTLCodes\PMenus\obj\Debug\PMenus.csproj.CoreCompileInputs.cache
+C:\Users\ptort\Documents\TTLCodes\PMenus\obj\Debug\PMenus.exe
+C:\Users\ptort\Documents\TTLCodes\PMenus\obj\Debug\PMenus.pdb
+C:\Users\ptort\Documents\TTLCodes\PMenus\obj\Debug\PMenus.frmExercicio2.resources
+C:\Users\ptort\Documents\TTLCodes\PMenus\obj\Debug\PMenus.frmExercicio3.resources
+C:\Users\ptort\Documents\TTLCodes\PMenus\obj\Debug\PMenus.frmExercicio4.resources
+C:\Users\ptort\Documents\TTLCodes\PMenus\obj\Debug\PMenus.frmExercicio5.resources
